@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "moduleResolution": "node",
+      "target": "ES6",
+      "module": "commonjs",
+      "strict": true,
+      "esModuleInterop": true,
+      "outDir": "lib",
+      "baseUrl": "./",
+      "paths": {
+        "@jupyterlab/*": ["node_modules/@jupyterlab/*"]
+      }
+    },
+    "include": ["src/**/*"]
+  }
+  
