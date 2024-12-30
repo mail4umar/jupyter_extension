@@ -1,0 +1,8 @@
+.jp-vertica-extension {
+  background-image: url(database.svg);
+  background-size: 32px;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-width: 32px;
+  min-height: 32px;
+}

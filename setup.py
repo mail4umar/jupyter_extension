@@ -10,7 +10,7 @@ setup(
         "voila>=0.2.0",
         "jupyterlab>=3.0.0"
     ],
-    author="Your Name",
+    author="Umar Farooq Ghumman",
     author_email="your.email@example.com",
     description="A JupyterLab extension for viewing Vertica database tables",
     long_description=open("README.md").read(),
